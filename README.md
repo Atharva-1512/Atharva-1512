@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Atharva 👋
 
-<!--
-**Atharva-1512/Atharva-1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | AI & Data Science Enthusiast  
+🎓 B.E IT Student | Modern College of Engineering, Pune  
+📍 India | Open to Software & AI Roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+- Languages: Python, Java, C++, SQL, JavaScript, PHP
+- Frontend: React.js, HTML, CSS
+- Backend: Node.js, Express.js, PHP
+- Databases: MySQL, MongoDB
+- AI/ML: Scikit-learn, Pandas, NumPy
+- Tools: Git, GitHub, VS Code
+
+---
+
+## ⭐ Featured Projects
+
+### 🗳 Online Voting System
+Secure voting platform with authentication and admin dashboard.
+
+### 🍽 Cloud Cuisine
+Full stack cloud kitchen ordering application.
+
+### 🤖 AutoML System
+Automated ML pipeline for model selection & feature engineering.
+
+---
+
+## 📄 Research
+**Anomaly-Aware AutoML with Dynamic Feature Engineering**
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/atharva-gade-183147221/
+- Portfolio: https://atharva-profile.netlify.app/
