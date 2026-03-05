@@ -36,4 +36,4 @@ Automated ML pipeline for model selection & feature engineering.
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/atharva-gade-183147221/
-- Portfolio: https://atharva-profile.netlify.app/
+
