@@ -15,6 +15,10 @@ I’m currently learning Deep Learning, MLOps, System Design, and Backend Develo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Atharva-1512&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Atharva-1512&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
