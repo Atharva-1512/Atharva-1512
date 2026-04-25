@@ -1,7 +1,8 @@
 # 💫 About Me:<br>🔭 I’m currently working in collaboration with AI/ML-based projects and trying to implement in real life as well to improve performance and efficiency, including AutoML systems and real-world web applications with scalable backend architectures  <br><br>
 👯 I’m looking to collaborate on innovative projects in Machine Learning, Data Science, and Full-Stack Development  <br><br>
 🤝 I’m looking for help with advanced AI concepts, research opportunities, and optimizing production-level ML systems  <br><br> 
-I’m currently learning Deep Learning, MLOps, System Design, and Backend Development using Spring Boot & Node.js  
+I’m currently learning Deep Learning, MLOps, System Design, and Backend Development using Spring Boot & Node.js
+also looking forward to learn and explore from live hands on experience from internships.
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvagadetech@gmail.com) 
 
